@@ -9,7 +9,7 @@ I tend to specialize in Python and MySQL, with plenty of dabbling an expansion i
 - 📄 Know about my experiences: [Resume](https://m-inwards.github.io/)
 
 <h2  align="center">📊 My GitHub Statistics</h2>
-<div float="left">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=m-inwards&count_private=true&show_icons=true&theme=dark" />
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-inwards&theme=dark&layout=compact" />
+<div style="display:flex;justify-content:center;">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-inwards&count_private=true&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-inwards&theme=dark&layout=compact" />
 </div>
