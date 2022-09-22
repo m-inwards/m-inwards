@@ -7,10 +7,10 @@ Im Matt and I tend to specialize in Python and MySQL, with plenty of dabbling an
 
 <table style="border:none;">
   <tr>
-    <td>
+    <td style="border:none;">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-inwards&count_private=true&show_icons=true&theme=dark" />
     </td>
-    <td>
+    <td style="border:none;">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-inwards&theme=dark&layout=compact" />
     </td>
   </tr>
