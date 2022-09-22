@@ -5,7 +5,7 @@ Im Matt and I tend to specialize in Python and MySQL, with plenty of dabbling an
 - 💬 Ask me about anything Python related
 - 📫 How to reach me: [email](mailto:matthewinwards@hotmail.co.uk)
 
-<p style="display:flex;">
-  <img align="top" width="auto" src="https://github-readme-stats.vercel.app/api?username=m-inwards&count_private=true&show_icons=true&theme=dark" />
-  <img align="top" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-inwards&theme=dark&layout=compact" />
+<p style="float:left;">
+  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=m-inwards&count_private=true&show_icons=true&theme=dark" />
+  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-inwards&theme=dark&layout=compact" />
 </p>
