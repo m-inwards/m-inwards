@@ -9,7 +9,6 @@ I tend to specialize in Python and MySQL, with plenty of dabbling an expansion i
 - 📄 Know about my experiences: [Resume](https://m-inwards.github.io/)
 
 ## 📊 My GitHub Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=m-inwards&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=m-inwards&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-inwards&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
